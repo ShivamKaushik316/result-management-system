@@ -1,7 +1,7 @@
 # result-management-system
 This is a Result Management System to maintain records of students using Mongodb Atlas .To use this webapp follow the given steps;
 
-step1 : Go to 
+step1 : Go to <br>
 step2 : Click on "Teachers login" 
 Step 3 : Enter the Password (Password is asdf)
 Step4 : Now enter the student details and marks
