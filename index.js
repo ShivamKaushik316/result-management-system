@@ -4,7 +4,7 @@ const port = 3000;
 const mongoose = require('mongoose');
 var expressLayouts = require('express-ejs-layouts');
 
-mongoose.connect("mongodb+srv://kaushikshivam1504:pigmentation316@cluster0.knrkd6t.mongodb.net/test", {
+mongoose.connect("mongodb+srv://shivam316:pigmentation316@cluster0.kxg3ivw.mongodb.net/?retryWrites=true&w=majority", {
 });
 const db = mongoose.connection;
 db.on("error", (error) => console.log(error));
